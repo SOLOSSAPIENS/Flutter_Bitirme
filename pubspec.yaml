@@ -1,0 +1,38 @@
+name: mobile_app_bootcamp
+description: Yemeksepeti klonu.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/burger.jpg
+    - assets/images/pizza.jpg
+    - assets/images/kofte.jpg
+    - assets/images/coffee.jpg
+    - assets/images/whopper.jpg
+    - assets/images/bigking.jpg
+    - assets/images/chicken.jpg
+    - assets/images/karisik.jpg
+    - assets/images/margarita.jpg
+    - assets/images/tavuklu.jpg
+    - assets/images/kofte_porsiyon.jpg
+    - assets/images/karisik_izgara.jpg
+    - assets/images/pide.jpg
+    - assets/images/latte.jpg
+    - assets/images/frappuccino.jpg
+    - assets/images/tost.jpg

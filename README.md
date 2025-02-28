@@ -12,12 +12,13 @@ Bu projede Yemeksepeti'nin basit bir klonunu yapmaya çalıştım. Şu ana kadar
 - Restoran detay sayfası
 - Sepet işlemleri
 - Basit bir arayüz tasarımı
+- Filtreleme
 
 ## Nasıl Çalıştırılır?
 
 1. Projeyi bilgisayarınıza indirin
 ```bash
-git clone [repo-linki]
+git clone https://github.com/SOLOSSAPIENS/Flutter-Bitirme--devi.git
 ```
 
 2. Gerekli paketleri yükleyin

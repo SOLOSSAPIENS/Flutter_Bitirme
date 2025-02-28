@@ -18,7 +18,8 @@ Bu projede Yemeksepeti'nin basit bir klonunu yapmaya çalıştım. Şu ana kadar
 
 1. Projeyi bilgisayarınıza indirin
 ```bash
-git clone https://github.com/SOLOSSAPIENS/Flutter-Bitirme--devi.git
+git clone https://github.com/SOLOSSAPIENS/Flutter_Bitirme.git
+
 ```
 
 2. Gerekli paketleri yükleyin
